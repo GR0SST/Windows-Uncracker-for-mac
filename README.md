@@ -8,7 +8,9 @@ Introducing **Windows Uncracker for Mac** – the app that does the exact opposi
 ## 🎯 Features
 
 ✅ Authentic Windows™ watermark simulation
+
 ✅ Watermark automatically adjusts to your screen resolution – because quality matters.  
+
 ✅ Lightweight – it takes up less space than your existential dread.
 
 ## 🤔 Why?
